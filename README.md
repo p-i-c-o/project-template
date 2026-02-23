@@ -46,8 +46,8 @@
      META BADGES
      ========================= -->
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/Version-0.1.0-orange">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026--02--20-brightgreen">
+  <img alt="Version" src="https://img.shields.io/badge/Version-x.x.x-orange">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-YYYY--MM--DD-brightgreen">
 </p>
 
 
